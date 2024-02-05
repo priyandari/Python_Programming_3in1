@@ -2,7 +2,7 @@
 Pembelajaran program komputer menggunakan Python bagi pemula (tingkat dasar) di bidang rekayasa informasi dan pengambilan keputusan (RIPK) (_Decision Making and Information Engineering_, DMIE)
 
 
-## 1. 
+## [1. Konsep Algoritma](01%20Konsep%20Algoritma.ipynb)
 
 ## Lampiran 1 Environment
 
