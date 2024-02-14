@@ -3,7 +3,9 @@ Pembelajaran program komputer menggunakan Python bagi pemula (tingkat dasar) di 
 
 
 ## [1. Konsep Algoritma](01%20Konsep%20Algoritma.ipynb)
+## [2. Variabel, Tipe Data, dan Operator](02%20Variable%20Tipe%20Data%20dan%20Operator.ipynb)
 
-## Lampiran 1 Environment
+## Lampiran
+### [1 Environment](/l1_environment.ipynb)
 
 ## Lampiran 2 Github dan Git
