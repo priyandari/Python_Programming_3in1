@@ -7,6 +7,6 @@ Pembelajaran program komputer menggunakan Python bagi pemula (tingkat dasar) di 
 ## [3. Percabangan (Logika Keputusan)](03%20Percabangan%20IF_ELSE_ELIF.ipynb)
 ## [4. Pengulangan (Iterasi)](04%20Pengulangan%20Iterasi.ipynb)
 ## Lampiran
-### [1 Environment](/l1_environment.ipynb)
+### [1 Instalasi](l1_instalasi_dan_IDLE.ipynb)
 
 ## Lampiran 2 Github dan Git
