@@ -10,7 +10,7 @@ Pembelajaran program komputer menggunakan Python bagi pemula (tingkat dasar) di 
 ## [6. Tuple](06%20Tuple.ipynb)
 ## [7. Sets](07%20Sets.ipynb)
 ## [8. Dictionary](08%20Dictionary.ipynb)
-
+## [9. Strings as List](09%20String%20as%20List.ipynb)
 ## Lampiran
 ### [1 Instalasi](l1_instalasi_dan_IDLE.ipynb)
 
