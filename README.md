@@ -6,6 +6,11 @@ Pembelajaran program komputer menggunakan Python bagi pemula (tingkat dasar) di 
 ## [2. Variabel, Tipe Data, dan Operator](02%20Variable%20Tipe%20Data%20dan%20Operator.ipynb)
 ## [3. Percabangan (Logika Keputusan)](03%20Percabangan%20IF_ELSE_ELIF.ipynb)
 ## [4. Pengulangan (Iterasi)](04%20Pengulangan%20Iterasi.ipynb)
+## [5. Lists](05%20Lists.ipynb)
+## [6. Tuple](06%20Tuple.ipynb)
+## [7. Sets](07%20Sets.ipynb)
+## [8. Dictionary](08%20Dictionary.ipynb)
+
 ## Lampiran
 ### [1 Instalasi](l1_instalasi_dan_IDLE.ipynb)
 
