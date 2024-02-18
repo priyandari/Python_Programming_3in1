@@ -12,7 +12,7 @@ Pembelajaran program komputer menggunakan Python bagi pemula (tingkat dasar) di 
 ## [8. Dictionary](08%20Dictionary.ipynb)
 ## [9. Strings as List](09%20String%20as%20List.ipynb)
 ## [10. Matrik dan Operasi Dasar Matrik](10%20Matriks.ipynb)
-## [11. Fungsi (Functions)][label](11%20Functions.ipynb)
+## [11. Fungsi (Functions)](11%20Functions.ipynb)
 #### [11. a. Fungsi-Fungsi Numerik](11a%20Fungsi-Fungsi%20Numerik.ipynb)
 ## [12. User-Defined Function](12%20User-Defined%20Functions.ipynb)
 ## Lampiran
