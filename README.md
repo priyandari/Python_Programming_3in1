@@ -16,7 +16,9 @@ Pembelajaran program komputer menggunakan Python bagi pemula (tingkat dasar) di 
 ##### [11. a. Fungsi-Fungsi Numerik](11a%20Fungsi-Fungsi%20Numerik.ipynb)
 #### [12. User-Defined Function](12%20User-Defined%20Functions.ipynb)
 #### [13. Modul dan Paket](13%20Modul%20dan%20Paket.ipynb)
-
+#### [14. File dan Direktori](14%20File%20dan%20Direktori.ipynb)
+##### [14. a. File CSV](14a%20File%20CSV.ipynb)
+##### [14. a. File JSON](14b%20File%20JSON.ipynb)
 ## Lampiran
 #### [1 Instalasi](l1_instalasi_dan_IDLE.ipynb)
 
