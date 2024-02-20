@@ -19,7 +19,16 @@ Pembelajaran program komputer menggunakan Python bagi pemula (tingkat dasar) di 
 #### [14. File dan Direktori](14%20File%20dan%20Direktori.ipynb)
 ##### [14. a. File CSV](14a%20File%20CSV.ipynb)
 ##### [14. a. File JSON](14b%20File%20JSON.ipynb)
-## Lampiran
-#### [1 Instalasi](l1_instalasi_dan_IDLE.ipynb)
 
-## Lampiran 2 Github dan Git
+## Algoritma-Algoritma Dasar Pada Pemrograman
+Memahami algoritma-algoritma dasar adalah penting bagi programmer karena algoritma-algoritma itu menjadi dasar bagi banyak algoritma dan struktur data yang lebih kompleks serta memungkinkan programmer untuk menyelesaikan berbagai masalah pemrograman dengan lebih efisien.
+
+#### [A01 Algoritma Pengurutan Data](A01%20Algoritma%20Pengurutan.ipynb)
+
+#### [A02 Algoritma Pencarian Data](A02%20Algoritma%20Pencarian.ipynb)
+## Lampiran
+#### [1 Instalasi Python](l1_instalasi_dan_IDE.ipynb)
+
+#### [2 Bekerja dalam _Environment_ Spesifik]()
+
+#### [2 Github dan Git]()
