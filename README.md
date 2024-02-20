@@ -33,8 +33,8 @@ __Python__ pada dasarnya adalah bahasa program berorientasi objek (_object orien
 Hampir semua hal di dalam Python berupa __object__, yang memiliki __properties__ dan __methods__. 
 Adapun  __Class__ adalah istilah yang membangun/ mengkonstruksi object, atau sebuah "_blueprint_" untuk membuat sebuah _instans_.
 
-#### [O1 Classes/Objects]()
-#### [O2 Inheritance]()
+#### [O1 Classes/Objects](O1%20Classes-Objects.ipynb)
+#### [O2 Inheritance](O2%20Inheritance.ipynb)
 
 #### [O3 Iterators]()
 
