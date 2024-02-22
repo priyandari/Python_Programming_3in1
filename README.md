@@ -41,6 +41,5 @@ Adapun  __Class__ adalah istilah yang membangun/ mengkonstruksi object, atau seb
 ## Lampiran
 #### [1 Instalasi Python](l1_instalasi_dan_IDE.ipynb)
 
-#### [2 Bekerja dalam _Environment_ Spesifik]()
-
+#### [2 Bekerja dalam _Environment_ Spesifik](l2_environment.ipynb)
 #### [2 Github dan Git]()
