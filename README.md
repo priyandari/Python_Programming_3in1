@@ -36,7 +36,7 @@ Adapun  __Class__ adalah istilah yang membangun/ mengkonstruksi object, atau seb
 #### [O1 Classes/Objects](O1%20Classes-Objects.ipynb)
 #### [O2 Inheritance](O2%20Inheritance.ipynb)
 #### [O3 Iterators](O3%20Iterators%20Property.ipynb)
-#### [O4 Polymorphism]()
+#### [O4 Polymorphism](O4%20Polymorphism.ipynb)
 
 ## Lampiran
 #### [1 Instalasi Python](l1_instalasi_dan_IDE.ipynb)
