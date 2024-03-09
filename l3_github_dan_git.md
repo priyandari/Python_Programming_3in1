@@ -131,9 +131,37 @@ Diasumsikan Anda tidak melakukan proses clone, melainkan mendownload files dari 
 
     > __Menambahkan file__ ke stagging `git add index.html`
 
-    > __Commit dengan pesan__ untuk semua file yg sudah di add. `git commit -m "update7 index"` 
+    > __Menambahkan folder__ ke stagging `git add images`
 
-    > __Melakukan upload__ untuk update file pada branch. `git push <remote_lokal> <namabranch>`, misal `git push python_tutorial mybranch`. 
+    > __Menghapus file di repo github yang tidak ada di git lokal__ . Contoh `git rm --cached l1_instalasi_dan_IDLE.ipynb`
+
+    > __Menghapus folder di repo dan mempertahankan di git lokal__. Contoh `git rm --cached -r directory_to_remove`
+
+    > __Menghapus file git lokal dan juga di repo__ . Contoh `git rm file1.txt`
+
+    > __Commit dengan pesan__ untuk semua file yg sudah di add. `git commit -m "update7 index dn remove a file"` 
+
+    > __Melakukan upload__ untuk update file ke repo pada branch. `git push <remote_lokal> <namabranch>`, misal `git push python_tutorial mybranch`. 
     
     > Jika diminta mengisikan `Enter passphrase for key '/c/Users/Lenovo/.ssh/id_rsa':`, maka ketik password akun github Anda.  
 
+## 6. Membuat file .gitignore
+File __.gitignore__ digunakan untuk mendefinisikan file dan folder di git lokal yang __tidak akan disinkronkan__ dengan repo github.
+
+Contoh isi file .gitignore
+```python
+__pycache__
+etc
+Include
+Lib
+Scripts
+share
+pyvenv.cfg
+.git
+.gitignore
+
+files/pengulangan.vsdx
+files/whc-sites-2023.csv
+files/mode_akses_file.xlsx
+
+```
