@@ -42,6 +42,7 @@ Adapun  __Class__ adalah istilah yang membangun/ mengkonstruksi object, atau seb
 __Python__ sebagaimana bahasa program lainnya, juga memiliki kemampuan melakukan koneksi ke file atau server basisdata (_database_). 
 
 #### [D1 Database Microsoft Access](D1%20Access%20Database.ipynb)
+#### [D2 Database MySQL](D2%20MySQL%20Database.ipynb)
 
 ## Lampiran
 #### [1 Instalasi Python](l1_instalasi_dan_IDE.ipynb)
