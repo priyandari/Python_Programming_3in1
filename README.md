@@ -38,6 +38,11 @@ Adapun  __Class__ adalah istilah yang membangun/ mengkonstruksi object, atau seb
 #### [O3 Iterators](O3%20Iterators%20Property.ipynb)
 #### [O4 Polymorphism](O4%20Polymorphism.ipynb)
 
+## Akses Basis Data
+__Python__ sebagaimana bahasa program lainnya, juga memiliki kemampuan melakukan koneksi ke file atau server basisdata (_database_). 
+
+#### [D1 Database Microsoft Access](D1%20Access%20Database.ipynb)
+
 ## Lampiran
 #### [1 Instalasi Python](l1_instalasi_dan_IDE.ipynb)
 
