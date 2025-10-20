@@ -21,6 +21,9 @@ Sesi pertama dalam tutorial ini memberikan pengetahuan tentang dasar-dasar pemro
 ##### [14. a. File CSV](14a%20File%20CSV.ipynb)
 ##### [14. a. File JSON](14b%20File%20JSON.ipynb)
 
+#### [17. Penanganan Eksepsi](17%20Penanganan%20Eksepsi.ipynb)
+#### [18. Python Framework](18%20Python%20Framework.ipynb)
+
 ## Algoritma-Algoritma Dasar Pada Pemrograman
 Memahami algoritma-algoritma dasar adalah penting bagi programmer karena algoritma-algoritma itu menjadi dasar bagi banyak algoritma dan struktur data yang lebih kompleks serta memungkinkan programmer untuk menyelesaikan berbagai masalah pemrograman dengan lebih efisien.
 
