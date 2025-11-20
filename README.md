@@ -20,8 +20,8 @@ Sesi pertama dalam tutorial ini memberikan pengetahuan tentang dasar-dasar pemro
 #### [14. File dan Direktori](14%20File%20dan%20Direktori.ipynb)
 ##### [14. a. File CSV](14a%20File%20CSV.ipynb)
 ##### [14. b. File JSON](14b%20File%20JSON.ipynb)
-##### [14. c. File CSV](14c%20File%20XLSX%20with%20openpyxl.ipynb)
-##### [14. d. File JSON](14d%20File%20CSV%20dan%20XLSX%20with%20Pandas.ipynb)
+##### [14. c. File XLSX menggunakan openpyxl](14c%20File%20XLSX%20with%20openpyxl.ipynb)
+##### [14. d. File XLSX dan csv menggunakan pandas](14d%20File%20CSV%20dan%20XLSX%20with%20Pandas.ipynb)
 
 #### [17. Penanganan Eksepsi](17%20Penanganan%20Eksepsi.ipynb)
 #### [18. Python Framework](18%20Python%20Framework.ipynb)
