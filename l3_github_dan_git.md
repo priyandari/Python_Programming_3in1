@@ -187,6 +187,10 @@ files/mode_akses_file.xlsx
     > git push <python_tutorial>
     > git push -u <python_tutorial> main
 
+## 8. SImbol git pada VS Code
+U (Untracked): File baru yang belum pernah dilacak oleh Git. File ini belum pernah didaftarkan ke staging area (git add) maupun di-commit sebelumnya.
+
+M (Modified): File lama yang sudah dilacak oleh Git, tetapi memiliki perubahan isi atau revisi baru yang belum di-commit.
 
 
 
