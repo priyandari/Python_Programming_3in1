@@ -182,7 +182,13 @@ files/mode_akses_file.xlsx
     > Cek Commit yang belum di push
     > git status
 
-    
+    > git add <files>
+    > git commit -m -a "<comments>"
+    > git push <python_tutorial>
+    > git push -u <python_tutorial> main
+
+
+
 
     
 
