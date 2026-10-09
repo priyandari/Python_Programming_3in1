@@ -166,7 +166,7 @@ files/mode_akses_file.xlsx
 
 ```
 
-## 7. Common Git Commands
+## 7. Commons Git Commands
     > git config --local --list
     > Tekan q untuk quit
 
