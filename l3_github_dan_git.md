@@ -165,3 +165,22 @@ files/whc-sites-2023.csv
 files/mode_akses_file.xlsx
 
 ```
+
+## 7. Common Git Commands
+    > git config --local --list
+    > Tekan q untuk quit
+
+    > git config user.name
+    > git config user.email
+
+    > Cek alamat remote tujuan push
+    > git remote -v
+
+    > Cek Hubungan Branch Lokal dengan Remote
+    > git branch -vv
+
+    > Cek Commit yang belum di push
+    > git status
+
+    
+
